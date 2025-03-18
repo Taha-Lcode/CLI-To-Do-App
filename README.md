@@ -33,7 +33,7 @@ A simple and efficient **command-line Todo List app** built using **Node.js**, a
 
 ## Screenshots 📸
 
-![Task List]()
+![Task List](Screenshot2025-03-18114047.png)
 *Displaying tasks in the CLI*
 
 ## Usage 📌
